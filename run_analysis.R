@@ -1,4 +1,4 @@
-setwd("C:/Users/ddaib/OneDrive/Documents/R/") #replace as required
+setwd("UCI HAR Dataset") #replace as required
 
 #Loading libraries
 library(dplyr)
